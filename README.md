@@ -1,2 +1,1 @@
-# MVP
-MVP gym app
+# ReviewApp
